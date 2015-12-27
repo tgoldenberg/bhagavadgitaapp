@@ -2771,7 +2771,7 @@
 
 		.spotlight .image {
 			width: 30%;
-			border-radius: 100%;
+			border-radius: 10px;
 			margin: 0 3em 0 0;
 			display: block;
 		}
